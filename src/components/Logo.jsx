@@ -103,7 +103,7 @@ const Logo = () => {
                     initial="hidden"
                     animate="visible"
                 >
-                    Pouloulou Gang
+                    Wibe Studio
                 </Text>
             </Link>
         </Container>
