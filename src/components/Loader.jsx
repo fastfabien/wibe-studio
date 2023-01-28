@@ -127,7 +127,7 @@ const Loader = () => {
                     initial="hidden"
                     animate="visible"
                 >
-                    Pouloulou Gang
+                    Wibe Studio
                 </Text>
     </Container>
   )
